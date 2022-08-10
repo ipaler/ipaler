@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ipaler&theme=flag-india" width="800" alt="ipaler"/>
-</div>
-
-<hr/>
-
-<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipaler&theme=flag-india" alt="ipaler"/>
 </div>
 
@@ -36,3 +30,9 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ipaler&repo=images&theme=flag-india)](https://github.com/ipaler/images)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ipaler&repo=ipaler.github.io&theme=flag-india)](https://github.com/ipaler/ipaler.github.io)
+
+<hr/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ipaler&theme=flag-india" width="800" alt="ipaler"/>
+</div>
