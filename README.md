@@ -30,8 +30,10 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+<!--
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ipaler&repo=images&theme=flag-india)](https://github.com/ipaler/images)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ipaler&repo=ipaler.github.io&theme=flag-india)](https://github.com/ipaler/ipaler.github.io)
+-->
 
 <div align="center">
     <a href="#">
