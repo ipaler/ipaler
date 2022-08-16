@@ -2,6 +2,12 @@
 
 <div align="center">
     <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipaler&theme=flag-india" alt="ipaler"/>
+    </a>
+</div>
+
+<div align="center">
+    <a href="#">
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ipaler&show_icons=true&hide_border=true&include_all_commits=true&line_height=25&theme=flag-india&locale=cn" alt="ipaler"/>
     </a>
     <a href="#">
@@ -20,8 +26,3 @@
     </a>
 </div>
 
-<div align="center">
-    <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipaler&theme=flag-india" alt="ipaler"/>
-    </a>
-</div>
