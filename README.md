@@ -35,7 +35,7 @@
 
 <div align="center">
     <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=ipaler&column=6&no-frame=true&no-bg=true&theme=gruvbox" width="800" alt="ipaler"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ipaler&column=7&no-frame=true&no-bg=true&theme=gruvbox" width="800" alt="ipaler"/>
     </a>
 </div>
 
