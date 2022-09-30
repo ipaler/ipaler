@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
