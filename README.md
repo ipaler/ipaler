@@ -19,6 +19,10 @@
 </div>
 -->
 
+<p align="left"> 
+  <img src="https://profile-counter.glitch.me/ipaler/count.svg" />
+</p>
+
 <div align="center">
     <a href="#">
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ipaler&show_icons=true&hide_border=true&include_all_commits=true&line_height=25&theme=flag-india&locale=cn" alt="ipaler"/>
