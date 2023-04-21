@@ -19,9 +19,11 @@
 </div>
 -->
 
+<!--
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/ipaler/count.svg" />
 </p>
+-->
 
 <div align="center">
     <a href="#">
