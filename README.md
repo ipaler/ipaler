@@ -37,11 +37,12 @@
 <!--
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ipaler&repo=images&theme=flag-india)](https://github.com/ipaler/images)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ipaler&repo=ipaler.github.io&theme=flag-india)](https://github.com/ipaler/ipaler.github.io)
--->
+
 
 <div align="center">
     <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=ipaler&column=7&no-frame=true&no-bg=true&theme=gruvbox" width="800" alt="ipaler"/>
     </a>
 </div>
+-->
 
